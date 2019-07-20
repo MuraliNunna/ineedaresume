@@ -1,0 +1,133 @@
+{
+  "ngStorage-localSummary": {
+    "body": "Experienced Full Stack Developer with 9+ years in the industry and high-level proficiency in  Javascript, expertise with HTML and CSS seeks to establish a career as the Full Stack Developer. I am very familiar and experienced with Web Application Architecture and have worked with a good number of successful development teams."
+  },
+  "ngStorage-localBasics": {
+    "name": "Murali Nunna",
+    "email": "murali.nunna@somedomain.com",
+    "phone": "123456789",
+    "linkedin": "https://www.linkedin.com/in/yourid/",
+    "twitter": "",
+    "link": "https://github.com/yourid"
+  },
+  "ngStorage-localQualifications": [
+    {
+      "qualificationTitle": "B.Tech",
+      "qualificationInstitution": "IIT Varanasi",
+      "qualificationLocation": "Varanasi",
+      "qualificationCompletion": "2008",
+      "qualificationGpa": "7.65"
+    }
+  ],
+  "ngStorage-localSkills": [
+    {
+      "skill": "Javascript"
+    },
+    {
+      "skill": "Python"
+    },
+    {
+      "skill": "Java"
+    },
+    {
+      "skill": "NodeJS"
+    },
+    {
+      "skill": "C#"
+    },
+    {
+      "skill": "Angular"
+    },
+    {
+      "skill": "AngularJS"
+    },
+    {
+      "skill": "HTML5"
+    },
+    {
+      "skill": "CSS3"
+    },
+    {
+      "skill": "SASS"
+    },
+    {
+      "skill": "Bash"
+    },
+    {
+      "skill": "Unix"
+    },
+    {
+      "skill": "Grunt"
+    },
+    {
+      "skill": "Gulp"
+    },
+    {
+      "skill": "Babel"
+    },
+    {
+      "skill": "Webpack"
+    },
+    {
+      "skill": "SQL"
+    },
+    {
+      "skill": "Docker"
+    },
+    {
+      "skill": "Openshift"
+    },
+    {
+      "skill": "ES6"
+    },
+    {
+      "skill": "Karma"
+    },
+    {
+      "skill": "Protractor"
+    },
+    {
+      "skill": "Npm"
+    },
+    {
+      "skill": "Yarn"
+    },
+    {
+      "skill": "Django"
+    }
+  ],
+  "ngStorage-localProjects": [
+    {
+      "projectTitle": "Amadeus for developers portal",
+      "projectDescription": "Amadeus for developers portal offers web services to create travel-related solutions or applications for travel agencies, airlines, hotel chains, railway companies, cruise lines, airport operators, software companies and developers. According to customers' business needs, they can discover, build and launch their custom applications using this portal. This portal offers a catalogue of over 500 web services. The web services offered are easy to implement and can be integrated with existing systems without any platform, language or framework dependency.\n\nHighlights\n• Built a generic AngularJS UI component library which is being used for rapid construction of new pages\n• Built a unit-test scaffolding tool to auto-generate tests for major angular components\n• Actively leading the UI team of around 5 developers for the scrum\n• Acting as scrum master for the team of around 17 developers\n• Responsible for the co-ordination of deliveries between teams based in BLR\nand NCE"
+    },
+    {
+      "projectTitle": "Amadeus catalogue",
+      "projectDescription": "Amadeus catalogue web app offered a one stop solution for various actors in Amadeus release process to manage change management of systems. Any multi- tenant change involving various sub systems is bundled in one environment, processed and validated from this portal, and then is sent as a single stand-alone change to other environments until production.\n \nHighlights\n• Developed product features, based on wireframes with high quality code using AngularJS\n• Followed TDD tenets and pair programming\n• Team lead for UI team of 3 developers"
+    },
+    {
+      "projectTitle": "Amadeus business rules",
+      "projectDescription": "Amadeus business rules is an open backend system, used by other subsystems in Amadeus tech ecosystem to configure any rule-based configurations dependent on the business needs. It sits in the centre of all the critical flows and is a mission critical application.\n\nHighlights\n• Developed a rule management web portal in Python, Django to configure the metadata for the rule systems to be used in the OBE\n• Automated various implementation activities with Python, which are responsible for quarterly data refreshes for the OBE"
+    },
+    {
+      "projectTitle": "BFS Innovation",
+      "projectDescription": "BFS Innovation is a transversal group, which cuts across all the business verticals and projects. My role was of a consultant and reseach associate for internal projects in the Banking space. Our role was to explore the technical space and adapt new technologies and adapt them to the increasing business needs. This required fast learning/unlearning of various technologies in a short span of time and do a turnaround to develop various proof of concepts and present them to the clients.\n\nHighlights\n• Developed a facial recognition solution based on OpenCV in Python for a banking client\n• Chaired the research group on 'Computer Vision'\n• Analysis of the requirements and their impacts on design\n• Responsible for the overall design of the inbound/outbound interfaces and\nmigration routines"
+    }
+  ],
+  "ngStorage-localJobs": [
+    {
+      "jobEmployer": "Amadeus Software Labs",
+      "jobLocation": "Bangalore",
+      "jobTime": "February 2014 – Present",
+      "jobTitle": "Member of Technical Staff",
+      "jobDescription": "At Amadeus, I worked in different and challenging projects, wearing a plethora of hats, donning technical roles of Frontend specialist, Python engineer and also functional roles like Scrum master, Team lead with equal ease. I am currently the lead for the API portal that Amadeus has released into Production recently."
+    },
+    {
+      "jobEmployer": "Cognizant Technology Solutions",
+      "jobLocation": "Kolkata",
+      "jobTime": "October 2009 - October 2013",
+      "jobTitle": "Innovation consultant",
+      "jobDescription": "Innovation group is a transversal group, which cuts across all the business verticals and projects. I was a consultant and research associate for internal projects in the Banking space. The groups' agenda was to explore the technical space and adopt new technologies and adapt them to the increasing business needs. This required fast learning/unlearning of various technologies in a short span of time and do a turnaround to develop various proof of concepts and present them to the clients."
+    }
+  ]
+}
